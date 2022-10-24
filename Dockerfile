@@ -21,4 +21,3 @@ ENV LC_ALL es_CL.UTF-8
 
 ADD . /app
 COPY . /app
-
